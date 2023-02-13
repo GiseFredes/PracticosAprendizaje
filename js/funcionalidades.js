@@ -14,6 +14,7 @@ const pi=3.14
 console.log(miVariable1);
 console.log(typeof miVariable1);
 
+
 miVariable1='Pepe'
 console.log(miVariable1);
 console.log(typeof miVariable1);
